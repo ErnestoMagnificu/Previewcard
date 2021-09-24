@@ -1,0 +1,58 @@
+body{
+    padding-top: 15rem;
+    padding-left: 22rem;
+    display: flex;
+    font-size: 15px;
+    background-color:hsl(233, 47%, 7%);
+    color:hsla(0, 0%, 100%, 0.75) ;
+    text-align: center;
+    font-family: "Inter" , "Lexend Deca" ;
+    font-weight:400, 700;
+    font-weight: 400;
+}
+
+.main-heading{
+    color:hsl(0, 0%, 100%) ;
+    font-size: 30px;
+}
+
+.stats-content{
+    font-size: 10px;
+}
+
+.stats-numbers{
+    font-size: 25px;
+}
+
+.container{
+    background-color: hsl(244, 38%, 16%);
+    height: 27.9rem;
+    width: 33.75rem;
+    border-radius: 10px 0 0 10px;
+}
+
+.working-img-class{
+    background-color: hsl(277, 65%, 32%);
+    height: 27.9rem;
+    width: 33.75rem;
+    border-radius: 0 10px 10px 0;
+
+}
+
+.working-img{
+    opacity: 30%;
+    border-radius: 0 10px 10px 0;
+}
+
+.purple-header{
+    color: hsl(277, 49%, 52%);
+}
+
+.main-content{
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 70px;
+    text-align: left;
+    line-height: 1.2;
+}
